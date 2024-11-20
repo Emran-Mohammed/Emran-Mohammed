@@ -1,12 +1,14 @@
 # Hi there, I'm Emran Mohammed 👋
 
 ## 🎓 About Me
-I'm a software engineering student at Addis Ababa Science and Technology University with a strong interest in building scalable software solutions and exploring innovative technology.
+Enthusiastic Software Engineering student at Addis Ababa Science and Technology University, passionate about
+developing digital solutions to real-world problems and exploring innovative technologies. Guided by the principle
+of 'Engineering for Humanity,' I strive to create impactful and sustainable advancements.
 
 ## 🛠 Skills & Technologies
 - **Languages**: Python, C++, 
-- **Framework**: Bootstrap
-- **Areas of Interest**: Software architecture, web development, and AI/ML
+- **Framework**: Flask
+- **Areas of Interest**: Data Science and Algorithm, web development, and AI/ML
 
 
 ## 🌱 Current Focus
